@@ -13,7 +13,7 @@
 ---
 This project explores global COVID-19 trends through SQL-based data analysis. The goal is to clean, transform, and analyze pandemic data to uncover patterns in infection rates, mortality, and recovery trends across countries.
 By applying advanced SQL queries, we derive valuable insights into how the virus spread, which countries were most affected, and how recovery patterns evolved over time. The dataset includes daily confirmed cases, deaths, and recoveries from multiple countries, providing a rich source for analytical exploration.
-![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/conersion%20for%20confirmed%20.png)
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/corona_virus%20image.png)
 
 
 ### Data sources 
