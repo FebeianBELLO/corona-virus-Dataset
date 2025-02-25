@@ -39,6 +39,7 @@ Performance Optimization (Indexing, Query Efficiency)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/death%20avg%2Cstd.ans.png).
 ### key Analysis 
 ---
+-To determine the duration of the outbreak and predict its overall timeframe, we analyzed the start and end dates of the dataset.
 -  The average number of confirmed cases, deaths, and recoveries varied each month, with some periods showing drastic increases in infections followed by steady recoveries.
 Most Frequently Reported Cases: Each month had a recurring number of cases, deaths, and recoveries, indicating clusters of commonly reported values. This could suggest specific reporting practices or natural trends in disease spread.
 -  Some countries consistently recorded higher infection rates, while others maintained relatvely lower cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density.
