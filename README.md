@@ -29,8 +29,8 @@ Date Manipulation (DATEPART(), CONVERT(DATE, …))
 Performance Optimization (Indexing, Query Efficiency)
 ### key features
 ---
-- Provides a deep dive into COVID-19 trends by analyzing confirmed cases, deaths, and recoveries across different regions and timeframes.
 - Cleans and processes raw data to ensure accuracy, converting date formats and transforming numerical data for better insights.
+- Provides a deep dive into COVID-19 trends by analyzing confirmed cases, deaths, and recoveries across different regions and timeframes.
 - Tracks monthly trends, identifying fluctuations in cases and helping to understand the virus's impact over time.
 - Determines the most frequently reported case numbers each month, offering a clearer picture of common infection and recovery patterns.
 - Pinpoints the countries with the highest confirmed cases, lowest deaths, and best recovery rates, helping to assess global responses.
