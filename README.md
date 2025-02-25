@@ -43,6 +43,7 @@ Performance Optimization (Indexing, Query Efficiency)
 -  The average number of confirmed cases, deaths, and recoveries varied each month, with some periods showing drastic increases in infections followed by steady recoveries.
 Most Frequently Reported Cases: Each month had a recurring number of cases, deaths, and recoveries, indicating clusters of commonly reported values. This could suggest specific reporting practices or natural trends in disease spread.
 -  Some countries consistently recorded higher infection rates, while others maintained relatively lower cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density.
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death.png)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death%20ans.png)
 -  High variance and standard deviation in confirmed cases indicate unpredictable surges, while lower fluctuations in recovery rates suggest more stable treatment success over time.
 - Some countries had notably high confirmed cases but relatively low deaths, implying strong healthcare responses, while others struggled with high fatality rates despite lower case counts.
