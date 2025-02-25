@@ -13,7 +13,7 @@
 ---
 This project explores global COVID-19 trends through SQL-based data analysis. The goal is to clean, transform, and analyze pandemic data to uncover patterns in infection rates, mortality, and recovery trends across countries.
 By applying advanced SQL queries, we derive valuable insights into how the virus spread, which countries were most affected, and how recovery patterns evolved over time. The dataset includes daily confirmed cases, deaths, and recoveries from multiple countries, providing a rich source for analytical exploration.
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/Bank%20of%20America..image.png)
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/conersion%20for%20confirmed%20.png)
 
 
 ### Data sources 
@@ -30,6 +30,7 @@ Performance Optimization (Indexing, Query Efficiency)
 ### key features
 ---
 - Cleans and processes raw data to ensure accuracy, converting date formats and transforming numerical data for better insights.
+ ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/conersion%20for%20confirmed%20.png)
 - Provides a deep dive into COVID-19 trends by analyzing confirmed cases, deaths, and recoveries across different regions and timeframes.
 - Tracks monthly trends, identifying fluctuations in cases and helping to understand the virus's impact over time.
 - Determines the most frequently reported case numbers each month, offering a clearer picture of common infection and recovery patterns.
