@@ -17,20 +17,22 @@ By applying advanced SQL queries, we derive valuable insights into how the virus
 
 
 ### Data sources 
----The primary dataset used is COVID-19 Data.csv, sourced from:
- Mentorness
-### Tools
 ---
-SQL
-Data Cleaning (REPLACE(), CAST(), ALTER TABLE)
-Aggregations (SUM(), AVG(), MIN(), MAX())
-Statistical Functions (STDEV(), VARIANCE())
-Date Manipulation (DATEPART(), CONVERT(DATE, …))
-Performance Optimization (Indexing, Query Efficiency)
+The primary dataset used is COVID-19 Data.csv, sourced from:
+ Mentorness
+### Tools and activties
+---
+SQL 
+- Data Cleaning (REPLACE(), CAST(), ALTER TABLE)
+- Aggregations (SUM(), AVG(), MIN(), MAX())
+- Statistical Functions (STDEV(), VARIANCE())
+- Date Manipulation (DATEPART(), CONVERT(DATE, …))
+- Performance Optimization (Indexing, Query Efficiency)
 ### key features
 ---
 - Cleans and processes raw data to ensure accuracy, converting date formats and transforming numerical data for better insights.
- ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/conersion%20for%20confirmed%20.png)
+
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/conersion%20for%20confirmed%20.png)
 - Provides a deep dive into COVID-19 trends by analyzing confirmed cases, deaths, and recoveries across different regions and timeframes.
 - Tracks monthly trends, identifying fluctuations in cases and helping to understand the virus's impact over time.
 - Determines the most frequently reported case numbers each month, offering a clearer picture of common infection and recovery patterns.
@@ -39,28 +41,29 @@ Performance Optimization (Indexing, Query Efficiency)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/death%20avg%2Cstd.ans.png).
 ### key Analysis 
 ---
--To determine the duration of the outbreak and predict its overall timeframe, we analyzed the start and end dates of the dataset.
+- To determine the duration of the outbreak and predict its overall timeframe, we analyzed the start and end dates of the dataset.
+ 
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/start%20and%20end%20date%20of%20cov.png)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/start%20and%20end%20dat%20of%20cov%20ans.png)
--  The average number of confirmed cases, deaths, and recoveries varied each month, with some periods showing drastic increases in infections followed by steady recoveries.
-Most Frequently Reported Cases: Each month had a recurring number of cases, deaths, and recoveries, indicating clusters of commonly reported values. This could suggest specific reporting practices or natural trends in disease spread.
--  Some countries consistently recorded higher infection rates, while others maintained relatvely lower cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density.
+- The average number of confirmed cases, deaths, and recoveries varied each month, with some periods showing drastic increases in infections followed by steady recoveries.
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/Avg%201.png)
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/avg%202.png)
+- Each month had a recurring number of cases, deaths, and recoveries, indicating clusters of commonly reported values. This could suggest specific reporting practices or natural trends in disease spread.
+- Some countries consistently recorded higher infection rates, while others maintained relatvely lower  to no cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density and even fast decision making.
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death.png)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death%20ans.png)
 -  High variance and standard deviation in confirmed cases indicate unpredictable surges, while lower fluctuations in recovery rates suggest more stable treatment success over time.
 - Some countries had notably high confirmed cases but relatively low deaths, implying strong healthcare responses, while others struggled with high fatality rates despite lower case counts.
 
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/consumer%20BOA.png)
-
 
 ### Analysis findings 
 ---
--COVID-19 waves followed a cyclical trend, with noticeable peaks in specific months, emphasizing the virus's tendency to surge periodically.
+- COVID-19 waves followed a cyclical trend, with noticeable peaks in specific months, emphasizing the virus's tendency to surge periodically.
 - Some countries had significantly better recovery rates, suggesting early interventions, better medical infrastructure, or effective public health strategies.
 - The country with the highest number of confirmed cases had one of the highest total deaths, reinforcing the correlation between widespread infection and fatality risks.
--The lowest death rates were observed in countries with robust healthcare systems, indicating that quick access to medical care played a crucial role in survival.
--Certain months exhibited extreme case fluctuations, pointing to possible data reporting delays, major outbreaks, or new variants emerging.
--The most frequently reported confirmed cases and deaths suggest consistent reporting patterns, likely influenced by testing availability and government transparency.
+- Countries with strong healthcare systems and swift decision-making had the lowest death rates, suggesting that rapid access to medical care and timely border closures played a critical role in survival and containment.
+- Certain months exhibited extreme case fluctuations, pointing to possible data reporting delays, major outbreaks, or new variants emerging.
+- The most frequently reported confirmed cases and deaths suggest consistent reporting patterns, likely influenced by testing availability and government transparency.
 
 
 ### Recommendations
