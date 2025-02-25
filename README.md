@@ -36,6 +36,7 @@ Performance Optimization (Indexing, Query Efficiency)
 - Determines the most frequently reported case numbers each month, offering a clearer picture of common infection and recovery patterns.
 - Pinpoints the countries with the highest confirmed cases, lowest deaths, and best recovery rates, helping to assess global responses.
 - Utilizes key statistical metrics—such as averages, standard deviations, and variances—to measure data consistency and volatility.
+![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/death%20avg%2Cstd.ans.png).
 ### key Analysis 
 ---
 -  The dataset spans multiple years, showing a fluctuating pattern in confirmed cases, deaths, and recoveries. Some months experienced significant spikes, while others saw declines, highlighting the seasonal nature of outbreaks.
