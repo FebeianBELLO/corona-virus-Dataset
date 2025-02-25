@@ -39,10 +39,9 @@ Performance Optimization (Indexing, Query Efficiency)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/death%20avg%2Cstd.ans.png).
 ### key Analysis 
 ---
--  The dataset spans multiple years, showing a fluctuating pattern in confirmed cases, deaths, and recoveries. Some months experienced significant spikes, while others saw declines, highlighting the seasonal nature of outbreaks.
 -  The average number of confirmed cases, deaths, and recoveries varied each month, with some periods showing drastic increases in infections followed by steady recoveries.
 Most Frequently Reported Cases: Each month had a recurring number of cases, deaths, and recoveries, indicating clusters of commonly reported values. This could suggest specific reporting practices or natural trends in disease spread.
--  Some countries consistently recorded higher infection rates, while others maintained relatively lower cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density.
+-  Some countries consistently recorded higher infection rates, while others maintained relatvely lower cases and deaths. The disparities suggest differences in healthcare systems, government interventions, or population density.
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death.png)
 ![Dashboard](https://github.com/FebeianBELLO/corona-virus-Dataset/blob/main/lowest%20for%20death%20ans.png)
 -  High variance and standard deviation in confirmed cases indicate unpredictable surges, while lower fluctuations in recovery rates suggest more stable treatment success over time.
